@@ -1,4 +1,4 @@
-Matrix OpenWebRTC wrapper for iOS
+Matrix OpenWebRTC wrapper for iO
 =================================
 
 This library enables OpenWebRTC voice and video calls in a Matrix application.
